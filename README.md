@@ -2,6 +2,8 @@
 
 Management desktop for remote monitoring and control of the [Testbot](https://github.com/dortmans/testbot) robot.
 
+This Testbot Desktop package communicates with the Testbot using the [zenoh-bridge-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds).
+
 ## Installation
 
 To install the testbot_desktop software for the remote control of the Testbot, run following command on your laptop computer:
